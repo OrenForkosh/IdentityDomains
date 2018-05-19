@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/OrenForkosh/IdentityDomains/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+TBA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Getting Started
 
-### Markdown
+The file 'IdentityDemos' is a good starting point as it includes several examples for using the code. The script shows how to:
+1. Compute the identity-domains and showing their behavioral correlates
+2. Use pre-computed Identity-Domains to produce a map of the personality space
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Prerequisites
 
-```markdown
-Syntax highlighted code block
+The code was tested on Matlab 2017a on both a Windows and MacOS machines, but should in principal work on earlier version of Matlab as well as other operating systems
 
-# Header 1
-## Header 2
-### Header 3
+### Installation
 
-- Bulleted
-- List
+Just put all the code in a directory and cd to this directory within Matlab
 
-1. Numbered
-2. List
+### Files
 
-**Bold** and _Italic_ and `Code` text
+File | Description 
+-----|------------
+IdentityDemos.m |	Includes a set of examples for using the code
+IdentityDomains.m |	Main class. Includes the ID computation tools
+DimReduction.m	|	A collection of Dimensionality Reduction algorithms
+Auxiliary.m	|	Set of small auxiliary functions
+Color.m		|	Includes a set of colors
+data_table.mat	|	Sample table
+ID.mat		|	Precomputed IDs and Archetypes
 
-[Link](url) and ![Image](src)
-```
+### License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The Identity Domains Toolbox for MATLAB is free and open source, distributed under the [MIT license](https://opensource.org/licenses/MIT).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OrenForkosh/IdentityDomains/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
