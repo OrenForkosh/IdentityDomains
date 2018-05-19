@@ -21,10 +21,10 @@ Just put all the code in a directory and cd to this directory within Matlab
 File | Description 
 -----|------------
 IdentityDemos.m |	Includes a set of examples for using the code
-IdentityDomains.m |	Main class. Includes the ID computation tools
+IdentityDomains.m |	Main class for computing the IDs
 DimReduction.m	|	A collection of Dimensionality Reduction algorithms
-Auxiliary.m	|	Set of small auxiliary functions
-Color.m		|	Includes a set of colors
+Auxiliary.m	|	Auxiliary functions
+Color.m		|	A collection of colors and tools for colors
 data_table.mat	|	Sample table
 ID.mat		|	Precomputed IDs and Archetypes
 
