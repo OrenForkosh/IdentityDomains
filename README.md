@@ -4,7 +4,7 @@ TBA
 
 ### Getting Started
 
-The file 'IdentityDemos' is a good starting point as it includes several examples for using the code. The script shows how to:
+The file `IdentityDemos` is a good starting point as it includes several examples for using the code. The script shows how to:
 1. Compute the identity-domains and showing their behavioral correlates
 2. Use pre-computed Identity-Domains to produce a map of the personality space
 
@@ -20,13 +20,13 @@ Just put all the code in a directory and cd to this directory within Matlab
 
 File | Description 
 -----|------------
-IdentityDemos.m |	Includes a set of examples for using the code
-IdentityDomains.m |	Main class for computing the IDs
-DimReduction.m	|	A collection of Dimensionality Reduction algorithms
-Auxiliary.m	|	Auxiliary functions
-Color.m		|	A collection of colors and tools for colors
-data_table.mat	|	Sample table
-ID.mat		|	Precomputed IDs and Archetypes
+`IdentityDemos.m` |	Includes a set of examples for using the code
+`IdentityDomains.m` |	Main class for computing the IDs
+`DimReduction.m`	|	A collection of Dimensionality Reduction algorithms
+`Auxiliary.m`	|	Auxiliary functions
+`Color.m`		|	A collection of colors and tools for colors
+`data_table.mat`	|	Sample table
+`ID.mat`		|	Precomputed IDs and Archetypes
 
 ### License
 
