@@ -1,6 +1,6 @@
 ### Introduction
 
-TBA
+This code provides tools for infering personality traits from behavior. While personality traits offer considerable insight into the biological basis of individual differences, existing approaches toward understanding personality across species rely on subjective criteria and limited sets of behavioral readouts, resulting in noisy and often inconsistent outcomes. In a recent paper, we introduced a mathematical framework for studying individual differences along dimensions with maximum consistency and discriminative power. This framework was validated in mice, using data from a system for high-throughput longitudinal monitoring of group-housed male mice that yields a variety of readouts from all across an individual’s behavioral repertoire. The code is implemented in Matlab.
 
 ### Getting Started
 
@@ -30,7 +30,9 @@ File | Description
 
 ### Cite
 
-TBA
+Identity domains in complex behavior: Toward a biology of personality
+Oren Forkosh, Stoyo Karamihalev, Simone Roeh, Mareen Engel, Uri Alon, Sergey Anpilov, Markus Nussbaumer, Cornelia Flachskamm, Paul Kaplick, Yair Shemesh, Alon Chen
+bioRxiv 395111; doi: https://doi.org/10.1101/395111
 
 ### License
 
