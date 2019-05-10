@@ -30,9 +30,9 @@ File | Description
 
 ### Cite
 
-Identity domains in complex behavior: Toward a biology of personality
-Oren Forkosh, Stoyo Karamihalev, Simone Roeh, Mareen Engel, Uri Alon, Sergey Anpilov, Markus Nussbaumer, Cornelia Flachskamm, Paul Kaplick, Yair Shemesh, Alon Chen
-bioRxiv 395111; doi: https://doi.org/10.1101/395111
+_Identity domains in complex behavior: Toward a biology of personality_
+Oren Forkosh, Stoyo Karamihalev, Simone Roeh, Mareen Engel, Uri Alon, Sergey Anpilov, Markus Nussbaumer, Cornelia Flachskamm, Paul Kaplick, Yair Shemesh, Alon Chen.
+bioRxiv 395111; doi: <https://doi.org/10.1101/395111>
 
 ### License
 
