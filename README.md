@@ -30,10 +30,9 @@ File | Description
 
 ### Cite
 
-_Identity domains in complex behavior: Toward a biology of personality_
-Oren Forkosh, Stoyo Karamihalev, Simone Roeh, Mareen Engel, Uri Alon, Sergey Anpilov, Markus Nussbaumer, Cornelia Flachskamm, Paul Kaplick, Yair Shemesh, Alon Chen.
-bioRxiv 395111; doi: <https://doi.org/10.1101/395111>
-
+Forkosh, Oren, Stoyo Karamihalev, Simone Roeh, Uri Alon, Sergey Anpilov, Chadi Touma, Markus Nussbaumer et al. "_Identity domains capture individual differences from across the behavioral repertoire._" Nature Neuroscience 22, no. 12 (2019): 2023-2028.
+ doi: <https://doi.org/10.1038/s41593-019-0516-y>
+ 
 ### License
 
 The Identity Domains Toolbox for MATLAB is free and open source, distributed under the [MIT license](https://opensource.org/licenses/MIT).
