@@ -30,8 +30,8 @@ File | Description
 
 ### Cite
 
-Forkosh, Oren, Stoyo Karamihalev, Simone Roeh, Uri Alon, Sergey Anpilov, Chadi Touma, Markus Nussbaumer et al. "_Identity domains capture individual differences from across the behavioral repertoire._" Nature Neuroscience 22, no. 12 (2019): 2023-2028.
- doi: <https://doi.org/10.1038/s41593-019-0516-y>
+Forkosh, Oren, Stoyo Karamihalev, Simone Roeh, Uri Alon, Sergey Anpilov, Chadi Touma, Markus Nussbaumer et al. "**_Identity domains capture individual differences from across the behavioral repertoire._**" Nature Neuroscience 22, no. 12 (2019): 2023-2028.
+doi: <https://doi.org/10.1038/s41593-019-0516-y>
  
 ### License
 
