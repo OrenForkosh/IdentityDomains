@@ -25,7 +25,7 @@ File | Description
 `DimReduction.m`	|	A collection of Dimensionality Reduction algorithms
 `Auxiliary.m`	|	Auxiliary functions
 `Color.m`		|	A collection of colors and tools for colors
-`behaviors_table.csv`, `behaviors_table.mat`	|	Sample table
+`behaviors_table.csv`, `behaviors_table.mat`	|	Behaviors data
 `ID.mat`		|	Precomputed IDs and Archetypes
 
 ### Cite
